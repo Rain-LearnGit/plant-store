@@ -1,0 +1,133 @@
+const productsList = [
+  {
+    id: 1,
+    title: "Orchid",
+    price: 200,
+    image: "/images/orchid.jpg",
+    category: "Houseplant",
+  },
+  {
+    id: 2,
+    title: "Lily",
+    price: 800,
+    image: "/images/lily.jpg",
+    category: "Outdoor Plant",
+  },
+  {
+    id: 3,
+    title: "Rose",
+    price: 400,
+    image: "/images/rose.jpg",
+    category: "Decorative",
+  },
+  {
+    id: 4,
+    title: "Sunflower",
+    price: 127,
+    image: "/images/sunflower.jpg",
+    category: "Decorative",
+  },
+  {
+    id: 5,
+    title: "Tulip",
+    price: 90,
+    image: "/images/tulip.jpg",
+    category: "Outdoor Plant",
+  },
+  {
+    id: 6,
+    title: "Carnation",
+    price: 280,
+    image: "/images/carnation.jpg",
+    category: "Houseplant",
+  },
+  {
+    id: 7,
+    title: "Lavender",
+    price: 660,
+    image: "/images/lavender.jpg",
+    category: "Decorative",
+  },
+
+  // New ones ↓↓↓
+
+  {
+    id: 8,
+    title: "Aloe Vera",
+    price: 150,
+    image: "/images/aloe.jpg",
+    category: "Houseplant",
+  },
+  {
+    id: 9,
+    title: "Snake Plant",
+    price: 300,
+    image: "/images/snakeplant.jpg",
+    category: "Houseplant",
+  },
+  {
+    id: 10,
+    title: "Peace Lily",
+    price: 350,
+    image: "/images/peacelily.jpg",
+    category: "Houseplant",
+  },
+  {
+    id: 11,
+    title: "Daisy",
+    price: 120,
+    image: "/images/daisy.jpg",
+    category: "Outdoor Plant",
+  },
+  {
+    id: 12,
+    title: "Hibiscus",
+    price: 500,
+    image: "/images/hibiscus.jpg",
+    category: "Outdoor Plant",
+  },
+  {
+    id: 13,
+    title: "Marigold",
+    price: 110,
+    image: "/images/marigold.jpg",
+    category: "Outdoor Plant",
+  },
+  {
+    id: 14,
+    title: "Bonsai",
+    price: 1200,
+    image: "/images/bonsai.jpg",
+    category: "Decorative",
+  },
+  {
+    id: 15,
+    title: "Jasmine",
+    price: 275,
+    image: "/images/jasmine.jpg",
+    category: "Decorative",
+  },
+  {
+    id: 16,
+    title: "Cactus",
+    price: 180,
+    image: "/images/cactus.jpg",
+    category: "Houseplant",
+  },
+  {
+    id: 17,
+    title: "Geranium",
+    price: 220,
+    image: "/images/geranium.jpg",
+    category: "Outdoor Plant",
+  },
+  {
+    id: 18,
+    title: "Begonia",
+    price: 260,
+    image: "/images/begonia.jpg",
+    category: "Decorative",
+  },
+];
+
+export default productsList;
