@@ -1,5 +1,5 @@
 # React + Vite
-
+This project is the plant store for the e-plantStore for the React Front Ent developer certificate.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
